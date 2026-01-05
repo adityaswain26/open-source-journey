@@ -7,6 +7,7 @@
 
 ## 2. ML4Sci – GENIE
 - PR: https://github.com/ML4SCI/GENIE/pull/6
+- Status - Open
 - Type: Documentation improvement
 - What I learned: Repo structure, cautious contributions, PR etiquette
 
